@@ -6,7 +6,7 @@ import { LocationMarker } from './LocationMarker';
 export const Header = () => {
     return (
       <header className="header">
-          <h1><Icon icon={LocationIcon} /> <span>WildFire Tracker (Powered by NASA</span>)</h1> 
+          <h1><Icon icon={LocationIcon} /> <span>NASA WildFire Tracker -OrionCySec</span>)</h1> 
       </header>
 
     )
