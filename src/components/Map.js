@@ -18,7 +18,7 @@ import { LocationInfoBox } from './LocationInfoBox';
     return (
         <div className="map">
             <GoogleMapReact
-            bootstrapURLKeys={{ key:'AIzaSyDdwBvb5g20bn8TI3NusE5D-hra39saK6Q'  }}
+            bootstrapURLKeys={{ key:'t202m1n3KlCRZg4HrAQgBlDDImGqouqMcbsYH0nv'  }}
             defaultCenter={ center }
             defaultZoom={ zoom }
             >
